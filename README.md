@@ -12,9 +12,9 @@ Moreover, the implmented GUI was used to plot the ACF and the PSD of the followi
 
 
 
-=========================================
+====================
 This is a Stochastic Process Calculator. 
-=========================================
+====================
 
 These are some guidelines for the attached files.
 
@@ -38,14 +38,14 @@ The User has the ability to enter another new data while running the GUI without
 press DONE, after that he/she will be requested to enter the files’ names of the new data. 
 
 
-==========================================================================================
+===============================================
 
 Part1.m
 =======
 This file generates the random process that needs to be tested in part I. 
 The ensemble is generated and saved in “Amplitude.txt” file, while the time vector is saved in “Time.txt” file. 
 
-==========================================================================================
+===============================================
 
 Part2_Tb_1.m
 ============
@@ -53,7 +53,7 @@ This file generates the ensemble of PNRZ, UNRZ, Manchester Line codes at Tb = 1 
 The number of bits is 100. The time step is 0.1 sec. The file also generates the ACF and PSD of the processes in order to draw them in the 
 required format as stated in Part II deliverables (Subplots). The values obtained in the document are the same as the ones obtained from the GUI. 
 
-==========================================================================================
+===============================================
 
 Part2_Tb_10.m
 ============
@@ -61,7 +61,7 @@ This file generates the ensemble of PNRZ, UNRZ, Manchester Line codes at Tb = 10
 The number of bits is 100. The time step is 1 sec. The file also generates the ACF and PSD of the processes in order to draw them in the 
 required format as stated in Part II deliverables (Subplots). The values obtained in the document are the same as the ones obtained from the GUI. 
 
-==========================================================================================
+===============================================
 
 Part2_Tb_100.m
 ============
@@ -69,7 +69,7 @@ This file generates the ensemble of PNRZ, UNRZ, Manchester Line codes at Tb = 10
 The number of bits is 100. The time step is 10 sec. The file also generates the ACF and PSD of the processes in order to draw them in the 
 required format as stated in Part II deliverables (Subplots). The values obtained in the document are the same as the ones obtained from the GUI. 
 
-==========================================================================================
+===============================================
 
 
 
