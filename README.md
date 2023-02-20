@@ -45,7 +45,7 @@ Part1.m
 This file generates the random process that needs to be tested in part I. 
 The ensemble is generated and saved in “Amplitude.txt” file, while the time vector is saved in “Time.txt” file. 
 
-=======================================================================================================================
+============================================================================================
 
 Part2_Tb_1.m
 ============
@@ -53,7 +53,7 @@ This file generates the ensemble of PNRZ, UNRZ, Manchester Line codes at Tb = 1 
 The number of bits is 100. The time step is 0.1 sec. The file also generates the ACF and PSD of the processes in order to draw them in the 
 required format as stated in Part II deliverables (Subplots). The values obtained in the document are the same as the ones obtained from the GUI. 
 
-=================================================================================================================================================
+==========================================================================================
 
 Part2_Tb_10.m
 ============
@@ -72,3 +72,7 @@ required format as stated in Part II deliverables (Subplots). The values obtaine
 =================================================================================================================================================
 
 
+
+## Demo <a name="demo"></a>
+
+https://user-images.githubusercontent.com/57066226/175558538-00bfa5c3-3dae-4160-868b-5ebbd8ed68ed.mp4
