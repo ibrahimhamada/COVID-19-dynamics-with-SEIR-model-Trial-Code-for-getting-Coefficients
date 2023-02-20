@@ -13,8 +13,9 @@ Moreover, the implmented GUI was used to plot the ACF and the PSD of the followi
 
 
 ====================
-This is a Stochastic Process Calculator. 
-====================
+
+Stochastic Process Calculator. 
+
 
 These are some guidelines for the attached files.
 
